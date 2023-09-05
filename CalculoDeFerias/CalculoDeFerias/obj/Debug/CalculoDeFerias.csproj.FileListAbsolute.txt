@@ -1,0 +1,10 @@
+D:\C#\CalculoDeFerias\CalculoDeFerias\bin\Debug\CalculoDeFerias.exe.config
+D:\C#\CalculoDeFerias\CalculoDeFerias\bin\Debug\CalculoDeFerias.exe
+D:\C#\CalculoDeFerias\CalculoDeFerias\bin\Debug\CalculoDeFerias.pdb
+D:\C#\CalculoDeFerias\CalculoDeFerias\obj\Debug\CalculoDeFerias.csproj.AssemblyReference.cache
+D:\C#\CalculoDeFerias\CalculoDeFerias\obj\Debug\CalculoDeFerias.Form1.resources
+D:\C#\CalculoDeFerias\CalculoDeFerias\obj\Debug\CalculoDeFerias.Properties.Resources.resources
+D:\C#\CalculoDeFerias\CalculoDeFerias\obj\Debug\CalculoDeFerias.csproj.GenerateResource.cache
+D:\C#\CalculoDeFerias\CalculoDeFerias\obj\Debug\CalculoDeFerias.csproj.CoreCompileInputs.cache
+D:\C#\CalculoDeFerias\CalculoDeFerias\obj\Debug\CalculoDeFerias.exe
+D:\C#\CalculoDeFerias\CalculoDeFerias\obj\Debug\CalculoDeFerias.pdb
