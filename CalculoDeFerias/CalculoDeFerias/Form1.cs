@@ -19,10 +19,6 @@ namespace CalculoDeFerias
 
         private void label1_Click(object sender, EventArgs e)
         {
-            Label myLabel = new Label();
-            Image myImage = Image.FromFile("circulo.png");
-            myLabel.Size = new Size(myImage.Width, myImage.Height);
-            myLabel.Image = myImage;
 
         }
     }
