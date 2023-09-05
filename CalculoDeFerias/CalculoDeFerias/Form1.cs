@@ -16,26 +16,13 @@ namespace CalculoDeFerias
         {
             InitializeComponent();
         }
-        private void listView1_SelectedIndexChanged_1(object sender, EventArgs e)
+
+        private void label1_Click(object sender, EventArgs e)
         {
-            // Aqui você pode adicionar funcionários à lista
-            // Vou adicionar alguns exemplos para ilustrar como fazer isso
-
-            // Nome dos funcionários
-            string[] funcionarios = { "Funcionário 1", "Funcionário 2", "Funcionário 3" };
-
-            // Limpe a lista existente
-            listView1.Items.Clear();
-
-            // Adicione os funcionários à lista
-            foreach (string funcionario in funcionarios)
-            {
-                listView1.Items.Add(funcionario);
-            }
-        }
-
-        private void label10_Click(object sender, EventArgs e)
-        {
+            Label myLabel = new Label();
+            Image myImage = Image.FromFile("circulo.png");
+            myLabel.Size = new Size(myImage.Width, myImage.Height);
+            myLabel.Image = myImage;
 
         }
     }
